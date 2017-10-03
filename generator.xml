@@ -7,8 +7,7 @@
   <m2t name="servicio.mtl"/>
   <m2t name="pom.mtl"/>
   <m2t name="endpoint.mtl"/>
-  <m2t name="genEnum.mtl"/>
-  
+  <m2t name="genEnum.mtl"/>  
   <m2t name="filtro/FiltroCache.mtl"/>
   <m2t name="filtro/FiltroExcepciones.mtl"/>
   <m2t name="view/app.mtl"/>
