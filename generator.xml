@@ -1,5 +1,5 @@
 <generator>
-  <name>lab.generador</name>
+  <name>labgenerador</name>
   <m2t name="dao.mtl"/>
   <m2t name="entidad.mtl"/>
   <m2t name="ApplicationConfig.mtl"/>
