@@ -3,6 +3,7 @@
   <m2t name="dao.mtl"/>
   <m2t name="entidad.mtl"/>
   <m2t name="ApplicationConfig.mtl"/>
+  <m2t name="FileReadme.mtl"/>
   <m2t name="persistence.mtl"/>
   <m2t name="servicio.mtl"/>
   <m2t name="pom.mtl"/>
